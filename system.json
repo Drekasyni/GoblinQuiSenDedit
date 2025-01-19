@@ -8,5 +8,7 @@
       "id": "drekasyni",
       "name": "Drekasyni"
     }
-  ]
+  ],
+  "manifest": "https://github.com/Drekasyni/GoblinQuiSenDedit/blob/main/system.json",
+  "download": "https://github.com/Drekasyni/GoblinQuiSenDedit/archive/refs/heads/main.zip"
 }
