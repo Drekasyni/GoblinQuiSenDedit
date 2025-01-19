@@ -1,0 +1,12 @@
+{
+  "id": "GoblinQuiSenDedit",
+  "title": "Gobelin qui s'en dédit",
+  "description": "Un system pour goblin qui s'en dédit",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "id": "drekasyni",
+      "name": "Drekasyni"
+    }
+  ]
+}
